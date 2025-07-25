@@ -28,6 +28,7 @@ html,body{
     padding: 25px;
 border-radius: 5px;
     font-size: 3rem;
+    border: 1px solid black;
 }
 
 .buttons{
