@@ -12,6 +12,8 @@ btn1.addEventListener("click", () => {
 
 function changeColor(color){
      body.style.backgroundColor=color
+     span.innerText=color
+
 }
 
 btn2.addEventListener("click",()=>{
